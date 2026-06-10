@@ -1,7 +1,7 @@
 # Hi, I'm Dharshini E 👋
 
 ## Connect with Me
-- LinkedIn: linkedin.com/i/dharshini-de
+- LinkedIn: linkedin.com/in/dharshini-de
 - HackerRank: https://www.hackerrank.com/profile/dharshinieswara5
 - GitHub: https://github.com/Dharshini6767
 
